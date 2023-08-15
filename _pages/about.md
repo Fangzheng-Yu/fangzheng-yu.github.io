@@ -14,7 +14,7 @@ profile:
 
 news: True  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -30,10 +30,14 @@ Presently, I am a Master student at Zhejiang University, co-advised by AR.[Yueti
 
 Besides, I am looking for a job now!
 
-**Research interest:** Optics, Deep learning, low-level Computer Vision.
+**Research interest:** 
 
-<!-- <div class="publications">
+Optics, Deep learning, low-level Computer Vision.
+
+**Publications:**
+
+<div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div> -->
+</div>
