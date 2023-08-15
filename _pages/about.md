@@ -22,7 +22,7 @@ State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerit
 
 fangzy@zju.edu.cn, yufz1014@163.com
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=emor0ykAAAAJ) | [Github](https://github.com/Fangzheng-Yu) | [Notion](https://www.notion.so/Fangzheng-s-home-c797b4d986a14b71846fe494b2db1971?pvs=4)
+[ Google scholar ](https://scholar.google.com/citations?hl=en&user=emor0ykAAAAJ)|[ Github ](https://github.com/Fangzheng-Yu|[ Notion ](https://www.notion.so/Fangzheng-s-home-c797b4d986a14b71846fe494b2db1971?pvs=4)
 
 I received B.Eng. degree in optoelectronic information science and engineering from Zhejiang University, Hangzhou, China, in 2021.
 
@@ -30,4 +30,4 @@ Presently, I am a Master student at Zhejiang University, co-advised by AR.[Yueti
 
 Besides, I am looking for a job now!
 
-**Research interest:**Optics, Deep learning, low-level Computer Vision.
+**Research interest:** Optics, Deep learning, low-level Computer Vision.
