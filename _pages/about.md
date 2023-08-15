@@ -32,8 +32,8 @@ Besides, I am looking for a job now!
 
 **Research interest:** Optics, Deep learning, low-level Computer Vision.
 
-<div class="publications">
+<!-- <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+</div> -->
